@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/HarryZhangMagTek/magtekrms.github.io/MagTek-RMS/MagTek-RMS.ipa</string>
+					<string>https://harryzhangmagtek.github.io/magtekrms.github.io/MagTek-RMS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/HarryZhangMagTek/magtekrms.github.io/MagTek-RMS/icon57x57.png</string>
+					<string>https://harryzhangmagtek.github.io/magtekrms.github.io/icon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/HarryZhangMagTek/magtekrms.github.io/MagTek-RMS/icon512x512.png</string>
+					<string>https://harryzhangmagtek.github.io/magtekrms.github.io/icon512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
